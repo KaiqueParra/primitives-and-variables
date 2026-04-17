@@ -106,16 +106,3 @@ With this project, I was able to:
 * Improve logical thinking
 * Practice clean code
 * Learn basic Git workflow
-
----
-
-## 👨‍💻 Author
-
-**Kaique**
-Java Student 🚀
-
----
-
-## ⭐ Final Note
-
-Simple exercises, but a strong foundation in Java.
