@@ -37,7 +37,7 @@ The goal of this project is to build a solid foundation in Java by:
 * Multiplication (`*`)
 * Division (`/`)
 * Modulus (`%`)
-* Comparisons (`==`, `>`, `<`)
+* Comparisons (`==`, `>`)
 
 ---
 
